@@ -1,2 +1,2 @@
 # AARE
-Americas Army Resource Extractor
+America´s Army Resource Extractor
